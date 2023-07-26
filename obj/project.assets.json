@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\cws2\\cws2.csproj",
+      "projectUniqueName": "D:\\FredrikOneDrive\\OneDrive\\Dokumenter\\vscode\\chatGPT\\cws2.csproj",
       "projectName": "cws2",
-      "projectPath": "D:\\dev\\cws2\\cws2.csproj",
+      "projectPath": "D:\\FredrikOneDrive\\OneDrive\\Dokumenter\\vscode\\chatGPT\\cws2.csproj",
       "packagesPath": "C:\\Users\\fredr\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\cws2\\obj\\",
+      "outputPath": "D:\\FredrikOneDrive\\OneDrive\\Dokumenter\\vscode\\chatGPT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fredr\\AppData\\Roaming\\NuGet\\NuGet.Config",
