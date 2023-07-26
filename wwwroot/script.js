@@ -31,7 +31,7 @@ async function sendMessage() {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
-      Authorization: "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", // Replace with your actual API key
+      Authorization: "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", // Replace with your actual API key
     },
     body: JSON.stringify({ question }),
   })
