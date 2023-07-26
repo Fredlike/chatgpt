@@ -27,11 +27,11 @@ async function sendMessage() {
   inputText.value = "";
 
   try {
-    const response = await fetch("/api/gpt", {
+    const response = await fetch("https://api.openai.com/v1/chat/completions", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        Authorization: "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", // Replace with your actual API key
+        Authorization: "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", // Replace with your actual API key
       },
       body: JSON.stringify({ question }),
     });
